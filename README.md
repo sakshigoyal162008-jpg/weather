@@ -1,5 +1,7 @@
 # 🌤️ Weather App
 
+A Python-based Weather App that fetches real-time weather information and a 5-day forecast using the OpenWeatherMap API.
+
 ## ✨ Features
 
 - 🌡️ Current temperature
