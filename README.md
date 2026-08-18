@@ -46,3 +46,26 @@ pip install requests python-dotenv
  ```
 
 4. Enter the city name and get the weather report.
+
+
+## 📸 Project Output
+
+The application displays:
+
+- Current weather information
+- Temperature and feels-like temperature
+- Humidity and pressure
+- Wind speed
+- Sunrise and sunset
+- Visibility
+- 5-day weather forecast
+
+## 🔐 Security
+
+The OpenWeatherMap API key is stored securely in a `.env` file and is excluded from GitHub using `.gitignore`.
+
+## 👩‍💻 Author
+
+**Sakshi Goyal**
+
+BCA Student | Python & Web Development Learner
